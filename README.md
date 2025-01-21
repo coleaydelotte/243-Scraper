@@ -10,3 +10,5 @@
 
 - Using headers to be able to scrape Amazon
 - going to create a program to append and return the top 3 results from the command line
+
+- Finished product.
